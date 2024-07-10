@@ -6,4 +6,5 @@ $databasePassword = '';
  
 $mysqli = mysqli_connect($databaseHost, 
     $databaseUsername, $databasePassword, $databaseName); 
-    
+
+$jasa_doker = 150000;
